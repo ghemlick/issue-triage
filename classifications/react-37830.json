@@ -1,0 +1,10 @@
+{
+  "decision": "bug",
+  "confidence": 0.93,
+  "rationale": "The report documents a reproducible production failure where React 19 transition lanes stay suspended after a synchronous Flight chunk ping during render, with measured stuck navigations and a traced root-cause in the scheduler.",
+  "source_issue_created_at": "2026-10-13T15:36:01Z",
+  "source_issue_number": 37830,
+  "source_issue_url": "https://github.com/react/react/issues/37830",
+  "mirrored_issue_number": 2,
+  "mirrored_issue_url": "https://github.com/ghemlick/issue-triage/issues/2"
+}
