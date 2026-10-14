@@ -1,0 +1,8 @@
+{
+  "decision": "bug",
+  "confidence": 0.91,
+  "rationale": "The report describes incorrect development behavior where an empty-string key skips React's special props.key warning getter due to a falsy check.",
+  "source_issue_created_at": "2026-10-14T17:59:37Z",
+  "source_issue_number": 6,
+  "source_issue_url": "https://github.com/ghemlick/issue-triage/issues/6"
+}
