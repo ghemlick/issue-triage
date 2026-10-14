@@ -1,0 +1,8 @@
+{
+  "decision": "bug",
+  "confidence": 0.97,
+  "rationale": "The report describes incorrect React Compiler output that rewrites quoted property access to dot notation, breaking apps when Closure Compiler renames properties.",
+  "source_issue_created_at": "2026-10-14T19:23:37Z",
+  "source_issue_number": 9,
+  "source_issue_url": "https://github.com/ghemlick/issue-triage/issues/9"
+}
