@@ -1,0 +1,10 @@
+{
+  "decision": "bug",
+  "confidence": 0.97,
+  "rationale": "The report gives a minimal repro where a button named action shadows form.action during pre-hydration submit handling, breaking React's replay logic.",
+  "source_issue_created_at": "2026-10-14T08:19:37Z",
+  "source_issue_number": 37837,
+  "source_issue_url": "https://github.com/react/react/issues/37837",
+  "mirrored_issue_number": 4,
+  "mirrored_issue_url": "https://github.com/ghemlick/issue-triage/issues/4"
+}
