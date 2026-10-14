@@ -1,0 +1,8 @@
+{
+  "decision": "not_bug",
+  "confidence": 0.93,
+  "rationale": "The issue does not describe a defect in React; it only asks for a specific classification without reporting reproducible incorrect behavior.",
+  "source_issue_created_at": "2026-10-14T19:16:43Z",
+  "source_issue_number": 8,
+  "source_issue_url": "https://github.com/ghemlick/issue-triage/issues/8"
+}
