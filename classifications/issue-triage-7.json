@@ -1,0 +1,8 @@
+{
+  "decision": "bug",
+  "confidence": 0.96,
+  "rationale": "The report describes a reproducible streaming SSR hydration race where React throws fatal error #418 and wipes correct server HTML while the document is still parsing.",
+  "source_issue_created_at": "2026-10-14T19:15:51Z",
+  "source_issue_number": 7,
+  "source_issue_url": "https://github.com/ghemlick/issue-triage/issues/7"
+}
