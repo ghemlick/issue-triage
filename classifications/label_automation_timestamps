@@ -1,3 +1,3 @@
 | processed_at | source_repo | source_issue_number | source_issue_url | source_issue_created_at | mirrored_issue_number | mirrored_issue_url | decision | confidence | rationale | labeled_bug |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2026-10-14T18:00:00Z | ghemlick/issue-triage | 6 | https://github.com/ghemlick/issue-triage/issues/6 | 2026-10-14T17:59:37Z | | | bug | 0.91 | The report describes incorrect development behavior where an empty-string key skips React's special props.key warning getter due to a falsy check. | no |
+| 2026-10-14T18:00:00Z | ghemlick/issue-triage | 6 | https://github.com/ghemlick/issue-triage/issues/6 | 2026-10-14T17:59:37Z | | | bug | 0.91 | The report describes incorrect development behavior where an empty-string key skips React's special props.key warning getter due to a falsy check. | yes |
