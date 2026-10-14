@@ -1,0 +1,10 @@
+{
+  "decision": "bug",
+  "confidence": 0.96,
+  "rationale": "The report provides a minimal repro where the React Compiler emits memoized code that leaves the outer function binding undefined on cache miss, breaking onClick handlers.",
+  "source_issue_created_at": "2026-10-14T04:07:45Z",
+  "source_issue_number": 37833,
+  "source_issue_url": "https://github.com/react/react/issues/37833",
+  "mirrored_issue_number": 3,
+  "mirrored_issue_url": "https://github.com/ghemlick/issue-triage/issues/3"
+}
