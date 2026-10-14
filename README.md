@@ -2,7 +2,7 @@
 
 Mirrored React issues and bug classifications.
 
-Hourly automation should discover new **react/react** issues with GraphQL (not REST list or Search):
+Automation should discover new issues in this repo and **react/react** with GraphQL (not REST list or Search):
 
 ```bash
 node scripts/discover-react-issues.mjs
