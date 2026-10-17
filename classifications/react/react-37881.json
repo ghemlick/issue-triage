@@ -1,0 +1,10 @@
+{
+  "decision": "bug",
+  "confidence": 0.97,
+  "rationale": "The report describes a reproducible development-mode defect where typeName() in CheckStringCoercion reads constructor.name on null-prototype objects and throws before React can emit its intended coercion warning.",
+  "source_issue_created_at": "2026-10-17T13:08:57Z",
+  "source_issue_number": 37881,
+  "source_issue_url": "https://github.com/react/react/issues/37881",
+  "mirrored_issue_number": 50,
+  "mirrored_issue_url": "https://github.com/ghemlick/issue-triage/issues/50"
+}
