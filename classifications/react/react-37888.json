@@ -1,0 +1,10 @@
+{
+  "decision": "bug",
+  "confidence": 0.97,
+  "rationale": "The report describes a reproducible React Compiler defect where a local copy of a module-level let is elided and rewritten to the module variable, so reassignment before read yields incorrect null output and broke a production PWA install handler.",
+  "source_issue_created_at": "2026-10-17T21:45:17Z",
+  "source_issue_number": 37888,
+  "source_issue_url": "https://github.com/react/react/issues/37888",
+  "mirrored_issue_number": 56,
+  "mirrored_issue_url": "https://github.com/ghemlick/issue-triage/issues/56"
+}
