@@ -1,0 +1,10 @@
+{
+  "decision": "bug",
+  "confidence": 0.97,
+  "rationale": "The report describes reproducible incorrect behavior where component state is lost when the element type changes from React.lazy to the resolved component, including with a stable key.",
+  "source_issue_created_at": "2026-10-19T15:59:04Z",
+  "source_issue_number": 37899,
+  "source_issue_url": "https://github.com/react/react/issues/37899",
+  "mirrored_issue_number": 63,
+  "mirrored_issue_url": "https://github.com/ghemlick/issue-triage/issues/63"
+}
