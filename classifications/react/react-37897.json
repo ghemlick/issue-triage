@@ -1,0 +1,10 @@
+{
+  "decision": "bug",
+  "confidence": 0.96,
+  "rationale": "The report describes a reproducible defect in the experimental Rust Babel compiler adapter where error diagnostic underlines are shifted one column left when non-ASCII text precedes the highlighted code on the same line.",
+  "source_issue_created_at": "2026-10-19T06:20:33Z",
+  "source_issue_number": 37897,
+  "source_issue_url": "https://github.com/react/react/issues/37897",
+  "mirrored_issue_number": 58,
+  "mirrored_issue_url": "https://github.com/ghemlick/issue-triage/issues/58"
+}
