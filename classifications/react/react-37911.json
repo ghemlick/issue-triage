@@ -1,0 +1,10 @@
+{
+  "decision": "bug",
+  "confidence": 0.97,
+  "rationale": "The report describes a reproducible SSR defect where separate useId() calls collide because leading zeroes are lost when React serializes an overflowing tree-position ID, breaking ARIA references.",
+  "source_issue_created_at": "2026-10-20T08:31:28Z",
+  "source_issue_number": 37911,
+  "source_issue_url": "https://github.com/react/react/issues/37911",
+  "mirrored_issue_number": 74,
+  "mirrored_issue_url": "https://github.com/ghemlick/issue-triage/issues/74"
+}
