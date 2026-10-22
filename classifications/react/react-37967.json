@@ -1,0 +1,10 @@
+{
+  "decision": "bug",
+  "confidence": 0.97,
+  "rationale": "The report describes a reproducible React state bug where a render-phase setValue(false) is committed then overwritten because an earlier same-value setState from a different priority leaves baseQueue non-empty so the update never reaches base state.",
+  "source_issue_created_at": "2026-10-22T20:42:15Z",
+  "source_issue_number": 37967,
+  "source_issue_url": "https://github.com/react/react/issues/37967",
+  "mirrored_issue_number": 89,
+  "mirrored_issue_url": "https://github.com/ghemlick/issue-triage/issues/89"
+}
