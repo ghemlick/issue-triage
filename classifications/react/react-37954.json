@@ -1,0 +1,10 @@
+{
+  "decision": "bug",
+  "confidence": 0.94,
+  "rationale": "The report describes a React DevTools defect where profiling triggers an error removing a fiber node that is not present in the DevTools Store.",
+  "source_issue_created_at": "2026-10-22T11:18:38Z",
+  "source_issue_number": 37954,
+  "source_issue_url": "https://github.com/react/react/issues/37954",
+  "mirrored_issue_number": 87,
+  "mirrored_issue_url": "https://github.com/ghemlick/issue-triage/issues/87"
+}
