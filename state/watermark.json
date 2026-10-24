@@ -1,4 +1,8 @@
 {
   "started_at": "2026-10-13T03:19:40.000Z",
+<<<<<<< HEAD
   "last_checked_at": "2026-10-24T13:05:37.484Z"
+=======
+  "last_checked_at": "2026-10-24T13:10:24.000Z"
+>>>>>>> b150794 (Update label_automation_timestamps and watermark for react#37984)
 }
