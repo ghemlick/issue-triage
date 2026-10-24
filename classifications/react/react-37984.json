@@ -1,0 +1,10 @@
+{
+  "decision": "bug",
+  "confidence": 0.97,
+  "rationale": "The report describes a reproducible React DOM defect where onTransitionRun, onTransitionStart, and onTransitionCancel deliver a generic SyntheticEvent instead of SyntheticTransitionEvent, so propertyName, elapsedTime, and pseudoElement are undefined unlike onTransitionEnd.",
+  "source_issue_created_at": "2026-10-24T13:09:18Z",
+  "source_issue_number": 37984,
+  "source_issue_url": "https://github.com/react/react/issues/37984",
+  "mirrored_issue_number": 94,
+  "mirrored_issue_url": "https://github.com/ghemlick/issue-triage/issues/94"
+}
