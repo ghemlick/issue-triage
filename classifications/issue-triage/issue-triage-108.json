@@ -1,0 +1,8 @@
+{
+  "decision": "bug",
+  "confidence": 0.97,
+  "rationale": "The report describes a reproducible React Compiler defect where branch-dependent assignment of 0 versus -0 is optimized away so 1/value always yields Infinity instead of distinguishing Infinity from -Infinity.",
+  "source_issue_created_at": "2026-10-25T11:35:34Z",
+  "source_issue_number": 108,
+  "source_issue_url": "https://github.com/ghemlick/issue-triage/issues/108"
+}
