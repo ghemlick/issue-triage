@@ -1,0 +1,8 @@
+{
+  "decision": "bug",
+  "confidence": 0.97,
+  "rationale": "The report describes a reproducible React DOM defect where controlled textarea keystrokes typed shortly after a deferred list update are dropped while a ViewTransition commit is held at startViewTransition, whereas the same app without ViewTransition never loses input.",
+  "source_issue_created_at": "2026-10-25T18:55:33Z",
+  "source_issue_number": 111,
+  "source_issue_url": "https://github.com/ghemlick/issue-triage/issues/111"
+}
