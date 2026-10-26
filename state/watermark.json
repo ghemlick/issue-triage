@@ -1,4 +1,8 @@
 {
   "started_at": "2026-10-13T03:19:40.000Z",
+<<<<<<< HEAD
   "last_checked_at": "2026-10-26T01:30:41.000Z"
+=======
+  "last_checked_at": "2026-10-26T01:35:25.000Z"
+>>>>>>> 0e1815c (chore(automation): update watermark after issue triage check)
 }
