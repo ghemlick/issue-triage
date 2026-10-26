@@ -1,0 +1,10 @@
+{
+  "decision": "not_bug",
+  "confidence": 0.94,
+  "rationale": "The filing is only the default bug report template with empty placeholder sections and does not describe any incorrect React behavior.",
+  "source_issue_created_at": "2026-10-26T09:47:55Z",
+  "source_issue_number": 38002,
+  "source_issue_url": "https://github.com/react/react/issues/38002",
+  "mirrored_issue_number": 121,
+  "mirrored_issue_url": "https://github.com/ghemlick/issue-triage/issues/121"
+}
