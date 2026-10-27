@@ -1,0 +1,8 @@
+{
+  "decision": "bug",
+  "confidence": 0.97,
+  "rationale": "The report describes a reproducible React Native Fabric renderer defect where skipping dispatchNativeEvent when the event target is null leaves the JS responder stuck and drops the next tap after the touch target unmounts.",
+  "source_issue_created_at": "2026-10-27T01:30:30Z",
+  "source_issue_number": 139,
+  "source_issue_url": "https://github.com/ghemlick/issue-triage/issues/139"
+}
