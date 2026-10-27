@@ -1,0 +1,8 @@
+{
+  "decision": "bug",
+  "confidence": 0.96,
+  "rationale": "The report describes a reproducible Fabric renderer defect where an eventTarget null guard prevents dispatchNativeEvent on touch end after unmount, leaving a stale JS responder and dropping the next tap.",
+  "source_issue_created_at": "2026-10-27T01:30:30Z",
+  "source_issue_number": 139,
+  "source_issue_url": "https://github.com/ghemlick/issue-triage/issues/139"
+}
