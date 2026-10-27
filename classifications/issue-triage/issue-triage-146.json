@@ -1,0 +1,8 @@
+{
+  "decision": "bug",
+  "confidence": 0.97,
+  "rationale": "The report describes inconsistent React Server Components Flight serialization where nested Node.js Buffers are sent via Buffer.prototype.toJSON as plain objects while root and Promise-wrapped Buffers correctly arrive as Uint8Array binary data.",
+  "source_issue_created_at": "2026-10-27T10:40:40Z",
+  "source_issue_number": 146,
+  "source_issue_url": "https://github.com/ghemlick/issue-triage/issues/146"
+}
