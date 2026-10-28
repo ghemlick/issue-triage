@@ -1,0 +1,8 @@
+{
+  "decision": "bug",
+  "confidence": 0.98,
+  "rationale": "The report describes a reproducible defect where throwing inside act leaves ReactSharedInternals.actQueue set so subsequent updates outside act are queued but never flushed until the next act call.",
+  "source_issue_created_at": "2026-10-28T20:40:29Z",
+  "source_issue_number": 213,
+  "source_issue_url": "https://github.com/ghemlick/issue-triage/issues/213"
+}
