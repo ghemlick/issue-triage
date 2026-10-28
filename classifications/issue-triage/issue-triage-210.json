@@ -1,0 +1,8 @@
+{
+  "decision": "bug",
+  "confidence": 0.98,
+  "rationale": "The report describes a reproducible hydration deadlock where a transition never commits after a throttled retry is interrupted by a ping, leaving transition and retry lanes suspended with no scheduled callback.",
+  "source_issue_created_at": "2026-10-28T18:45:34Z",
+  "source_issue_number": 210,
+  "source_issue_url": "https://github.com/ghemlick/issue-triage/issues/210"
+}
