@@ -1,0 +1,10 @@
+{
+  "decision": "bug",
+  "confidence": 0.98,
+  "rationale": "The report describes a reproducible React testing defect where throwing inside act leaves ReactSharedInternals.actQueue installed so subsequent updates outside act are queued but never flushed until another act runs.",
+  "source_issue_created_at": "2026-10-28T20:36:49Z",
+  "source_issue_number": 38031,
+  "source_issue_url": "https://github.com/react/react/issues/38031",
+  "mirrored_issue_number": 213,
+  "mirrored_issue_url": "https://github.com/ghemlick/issue-triage/issues/213"
+}
