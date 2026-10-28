@@ -1,0 +1,10 @@
+{
+  "decision": "bug",
+  "confidence": 0.97,
+  "rationale": "The report describes a reproducible React Compiler Rust port defect where is_ref_like_name panics on non-ASCII *Ref identifiers because a one-byte slice is not a valid UTF-8 character boundary.",
+  "source_issue_created_at": "2026-10-28T11:36:49Z",
+  "source_issue_number": 38023,
+  "source_issue_url": "https://github.com/react/react/issues/38023",
+  "mirrored_issue_number": 192,
+  "mirrored_issue_url": "https://github.com/ghemlick/issue-triage/issues/192"
+}
