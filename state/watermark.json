@@ -1,4 +1,8 @@
 {
   "started_at": "2026-10-13T03:19:40.000Z",
+<<<<<<< HEAD
   "last_checked_at": "2026-10-28T08:05:36.000Z"
+=======
+  "last_checked_at": "2026-10-28T08:15:22.000Z"
+>>>>>>> 1fe7a07 (chore: advance issue-triage watermark after empty check at 2026-10-28T08:15:22Z)
 }
