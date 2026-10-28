@@ -1,0 +1,8 @@
+{
+  "decision": "bug",
+  "confidence": 0.98,
+  "rationale": "The report describes a reproducible defect in React's act implementation where throwing callbacks leave actQueue installed so subsequent updates outside act are queued but never flushed until the next act call.",
+  "source_issue_created_at": "2026-10-28T20:40:29Z",
+  "source_issue_number": 213,
+  "source_issue_url": "https://github.com/ghemlick/issue-triage/issues/213"
+}
