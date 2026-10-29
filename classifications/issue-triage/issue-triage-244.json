@@ -1,0 +1,8 @@
+{
+  "decision": "bug",
+  "confidence": 0.98,
+  "rationale": "The report describes a reproducible React DOM defect where a synchronous useSyncExternalStore update during another root's render, while a stylesheet-suspended commit is pending, corrupts context defaults so an unrelated root reads null instead of its non-null default.",
+  "source_issue_created_at": "2026-10-29T15:11:22Z",
+  "source_issue_number": 244,
+  "source_issue_url": "https://github.com/ghemlick/issue-triage/issues/244"
+}
