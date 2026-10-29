@@ -1,0 +1,8 @@
+{
+  "decision": "bug",
+  "confidence": 0.98,
+  "rationale": "The report describes a reproducible React DOM style defect where shapeImageThreshold and mathDepth are not treated as unitless numbers, so React appends px and browsers reject the resulting invalid CSS values.",
+  "source_issue_created_at": "2026-10-29T15:16:06Z",
+  "source_issue_number": 246,
+  "source_issue_url": "https://github.com/ghemlick/issue-triage/issues/246"
+}

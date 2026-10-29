@@ -1,0 +1,10 @@
+{
+  "decision": "bug",
+  "confidence": 0.98,
+  "rationale": "The report describes a reproducible React DOM defect where named form controls shadow HTMLFormElement reset and method, causing form.reset() to throw and useFormStatus().method to return an input element instead of a string.",
+  "source_issue_created_at": "2026-10-29T15:14:53Z",
+  "source_issue_number": 38043,
+  "source_issue_url": "https://github.com/react/react/issues/38043",
+  "mirrored_issue_number": 247,
+  "mirrored_issue_url": "https://github.com/ghemlick/issue-triage/issues/247"
+}

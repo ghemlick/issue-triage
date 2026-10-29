@@ -1,0 +1,8 @@
+{
+  "decision": "bug",
+  "confidence": 0.98,
+  "rationale": "The report describes a reproducible React DOM defect where the resize event type omits SyntheticUIEvent in SimpleEventPlugin, so onResize handlers receive a base SyntheticEvent without UIEvent fields such as view and detail.",
+  "source_issue_created_at": "2026-10-29T15:16:06Z",
+  "source_issue_number": 245,
+  "source_issue_url": "https://github.com/ghemlick/issue-triage/issues/245"
+}
