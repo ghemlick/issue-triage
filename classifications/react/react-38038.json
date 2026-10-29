@@ -1,0 +1,10 @@
+{
+  "decision": "bug",
+  "confidence": 0.98,
+  "rationale": "The report describes a reproducible React Flight encodeReply/decodeReply defect where case K uses a hex string directly in the FormData key prefix instead of parseInt(..., 16), so nested FormData at refId 10 or higher decodes as empty.",
+  "source_issue_created_at": "2026-10-29T15:01:58Z",
+  "source_issue_number": 38038,
+  "source_issue_url": "https://github.com/react/react/issues/38038",
+  "mirrored_issue_number": 243,
+  "mirrored_issue_url": "https://github.com/ghemlick/issue-triage/issues/243"
+}
