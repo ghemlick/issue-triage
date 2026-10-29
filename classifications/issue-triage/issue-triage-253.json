@@ -1,0 +1,8 @@
+{
+  "decision": "bug",
+  "confidence": 0.98,
+  "rationale": "The report describes a reproducible hydration defect where replaying a forked lazy component during concurrent hydration clears the Forked flag and skips the tree-context push, so useId values no longer match server-rendered ids.",
+  "source_issue_created_at": "2026-10-29T18:30:42Z",
+  "source_issue_url": "https://github.com/ghemlick/issue-triage/issues/253",
+  "source_issue_number": 253
+}
