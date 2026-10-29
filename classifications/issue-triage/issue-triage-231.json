@@ -1,0 +1,8 @@
+{
+  "decision": "bug",
+  "confidence": 0.98,
+  "rationale": "The report describes a reproducible React 19.3 transition defect where markRootSuspended clears a ping on an entangled transition lane, preventing useDeferredValue's initialValue from committing until the deferred promise resolves.",
+  "source_issue_created_at": "2026-10-29T10:30:53Z",
+  "source_issue_number": 231,
+  "source_issue_url": "https://github.com/ghemlick/issue-triage/issues/231"
+}
