@@ -1,0 +1,10 @@
+{
+  "decision": "bug",
+  "confidence": 0.96,
+  "rationale": "The report describes a reproducible false positive where React's act helper warns about an unawaited async act call even when the call is awaited, triggered by Zone.js patching queueMicrotask.",
+  "source_issue_created_at": "2026-10-30T17:36:44Z",
+  "source_issue_number": 38064,
+  "source_issue_url": "https://github.com/react/react/issues/38064",
+  "mirrored_issue_number": 281,
+  "mirrored_issue_url": "https://github.com/ghemlick/issue-triage/issues/281"
+}

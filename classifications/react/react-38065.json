@@ -1,0 +1,10 @@
+{
+  "decision": "bug",
+  "confidence": 0.97,
+  "rationale": "The report describes a packaging defect in eslint-plugin-react-hooks 7.1.1 where the declared zod-validation-error range can resolve to 3.5.4, which lacks the ./v4 subpath the plugin requires at load time.",
+  "source_issue_created_at": "2026-10-30T17:40:53Z",
+  "source_issue_number": 38065,
+  "source_issue_url": "https://github.com/react/react/issues/38065",
+  "mirrored_issue_number": 282,
+  "mirrored_issue_url": "https://github.com/ghemlick/issue-triage/issues/282"
+}
