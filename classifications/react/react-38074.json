@@ -1,0 +1,10 @@
+{
+  "decision": "bug",
+  "confidence": 0.97,
+  "rationale": "The report describes a reproducible React Compiler Rust Babel plugin defect where files under node_modules are compiled by default, unlike the TypeScript plugin which skips them when sources is unset.",
+  "source_issue_created_at": "2026-10-30T21:26:18Z",
+  "source_issue_number": 38074,
+  "source_issue_url": "https://github.com/react/react/issues/38074",
+  "mirrored_issue_number": 289,
+  "mirrored_issue_url": "https://github.com/ghemlick/issue-triage/issues/289"
+}
