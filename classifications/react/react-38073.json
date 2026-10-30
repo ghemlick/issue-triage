@@ -1,0 +1,10 @@
+{
+  "decision": "bug",
+  "confidence": 0.97,
+  "rationale": "The report describes a reproducible React Compiler Rust port defect where suppression comments are only recognized at the start of a comment, so the Rust plugin compiles and memoizes functions the TypeScript compiler correctly skips.",
+  "source_issue_created_at": "2026-10-30T21:21:50Z",
+  "source_issue_number": 38073,
+  "source_issue_url": "https://github.com/react/react/issues/38073",
+  "mirrored_issue_number": 288,
+  "mirrored_issue_url": "https://github.com/ghemlick/issue-triage/issues/288"
+}
