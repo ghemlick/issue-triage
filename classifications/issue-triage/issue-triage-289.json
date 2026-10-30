@@ -1,0 +1,8 @@
+{
+  "decision": "bug",
+  "confidence": 0.98,
+  "rationale": "The report describes a reproducible babel-plugin-react-compiler-rust defect where unset sources defaults to compiling node_modules paths while the TypeScript plugin skips them.",
+  "source_issue_created_at": "2026-10-30T21:31:22Z",
+  "source_issue_number": 289,
+  "source_issue_url": "https://github.com/ghemlick/issue-triage/issues/289"
+}

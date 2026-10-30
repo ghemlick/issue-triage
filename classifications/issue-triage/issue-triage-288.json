@@ -1,0 +1,8 @@
+{
+  "decision": "bug",
+  "confidence": 0.98,
+  "rationale": "The report describes a reproducible React Compiler Rust port defect where suppression comment matching is prefix-anchored unlike the TypeScript compiler, so Rust compiles and memoizes functions that TypeScript correctly skips.",
+  "source_issue_created_at": "2026-10-30T21:26:05Z",
+  "source_issue_number": 288,
+  "source_issue_url": "https://github.com/ghemlick/issue-triage/issues/288"
+}
