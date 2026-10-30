@@ -1,0 +1,10 @@
+{
+  "decision": "bug",
+  "confidence": 0.97,
+  "rationale": "The report describes a reproducible React Compiler Rust port defect where isDev and enableReanimated flags are passed to Rust but never applied, so development builds omit the Fast Refresh source-hash cache reset that the TypeScript plugin emits.",
+  "source_issue_created_at": "2026-10-30T21:32:41Z",
+  "source_issue_number": 38076,
+  "source_issue_url": "https://github.com/react/react/issues/38076",
+  "mirrored_issue_number": 290,
+  "mirrored_issue_url": "https://github.com/ghemlick/issue-triage/issues/290"
+}
