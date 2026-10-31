@@ -1,0 +1,10 @@
+{
+  "decision": "bug",
+  "confidence": 0.97,
+  "rationale": "The report describes a reproducible development-mode memory leak in React Flight async-debug tracking where pendingOperations retains unbounded async ancestry until the dev server runs out of heap.",
+  "source_issue_created_at": "2026-10-31T18:23:00Z",
+  "source_issue_number": 38085,
+  "source_issue_url": "https://github.com/react/react/issues/38085",
+  "mirrored_issue_number": 315,
+  "mirrored_issue_url": "https://github.com/ghemlick/issue-triage/issues/315"
+}
