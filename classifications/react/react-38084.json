@@ -1,0 +1,10 @@
+{
+  "decision": "bug",
+  "confidence": 0.97,
+  "rationale": "The report describes a reproducible React Compiler core defect where an arrow function with a rest parameter that calls an imported function triggers an internal invariant failure instead of compiling.",
+  "source_issue_created_at": "2026-10-31T15:46:53Z",
+  "source_issue_number": 38084,
+  "source_issue_url": "https://github.com/react/react/issues/38084",
+  "mirrored_issue_number": 313,
+  "mirrored_issue_url": "https://github.com/ghemlick/issue-triage/issues/313"
+}
