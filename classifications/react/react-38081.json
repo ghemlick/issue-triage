@@ -1,0 +1,10 @@
+{
+  "decision": "bug",
+  "confidence": 0.97,
+  "rationale": "The report describes a reproducible React DOM defect where reordering keyed inputs inside a ShadowRoot drops focus and selection because commit-time focus restoration does not traverse shadow roots correctly.",
+  "source_issue_created_at": "2026-10-31T05:01:07Z",
+  "source_issue_number": 38081,
+  "source_issue_url": "https://github.com/react/react/issues/38081",
+  "mirrored_issue_number": 300,
+  "mirrored_issue_url": "https://github.com/ghemlick/issue-triage/issues/300"
+}
